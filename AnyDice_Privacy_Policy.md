@@ -1,4 +1,4 @@
-# AnyDice #
+# AnyDice
 
 **Privacy Policy**
 
