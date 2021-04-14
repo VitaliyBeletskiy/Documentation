@@ -11,3 +11,5 @@ https://vitaliybeletskiy.github.io/Documentation/BookTheCut_Support
 https://vitaliybeletskiy.github.io/Documentation/JustBullsAndCows_PrivacyPolicy
 
 https://vitaliybeletskiy.github.io/Documentation/JustBullsAndCows_Support
+
+https://vitaliybeletskiy.github.io/Documentation/DartsTrainingCalculator_PrivacyPolicy
